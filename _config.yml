@@ -2,12 +2,12 @@ title: Caro Tracking Some Deadlines
 description: Countdowns to some deadlines
 author: Carolin Brandt
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: "carolin-brandt.de"
+baseurl: "deadlines"
 
 # twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: lacinoire
+github_repo: deadlines
 
 markdown: kramdown
 ga_id:
