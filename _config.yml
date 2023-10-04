@@ -1,11 +1,11 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Caro Tracking Some Deadlines
+description: Countdowns to some deadlines
+author: Carolin Brandt
 
 domain: "aideadlin.es"
 baseurl: ""
 
-twitter_hashtag: machinelearning
+# twitter_hashtag: machinelearning
 github_username: paperswithcode
 github_repo: ai-deadlines
 

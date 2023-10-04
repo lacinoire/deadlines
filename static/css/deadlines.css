@@ -1,3 +1,15 @@
+:root {
+  --active-color: #00A6D6; /* active theme color */
+  --dark-color: #0066a2; /* primary theme color */
+  --default-color: #000000; /* secondary theme color */  --
+  --bg: #fff;
+  --extra-color: #999;
+  --light-color: #d8dbe2;
+  --white-color: #FFF;
+  --extra-active-color: rgba($active-color, 0.4);
+  --extra2-active-color: rgba($active-color, 0.01);
+}
+
 body {
   font-size: 16px;
   line-height: 23px;
@@ -15,7 +27,7 @@ body *::selection {
 }
 
 .top-strip {
-  background-color: #333;
+  background-color: var(--active-color);
   height: 0.25em;
   width: 100%;
 }
@@ -59,7 +71,7 @@ h3 {
 
 p.authors {
   margin-bottom: 5px;
-  color: #808080;
+  color: var(--dark-color);
   font-size: 20px;
 }
 
@@ -97,7 +109,7 @@ a:focus {
 }
 
 pre {
-  color: #333;
+  color: var(--active-color);
   font-size: 12px;
   line-height: 17px;
 }
@@ -319,4 +331,8 @@ footer {
 
 .calendar img {
   height: 20px;
+}
+
+.navbar-dark {
+  background-color: var(--dark-color) !important;
 }
