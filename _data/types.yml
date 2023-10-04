@@ -8,3 +8,6 @@
 - name: Requirements Engineering
   sub: RE
   color: "#33cc33"
+- name: Programming Languages
+  sub: PL
+  color: "#ff6600"

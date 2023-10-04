@@ -108,3 +108,16 @@
   start: 2024-06-24
   end: 2024-06-28
   sub: RE
+
+- title: PLATEAU Workshop
+  year: 2024
+  id: plateau24
+  link: https://plateau-workshop.org/
+  deadline: '2023-12-06 23:59:59'
+  timezone: UTC-12
+  place: University of California, Berkeley, CA, USA
+  date: February 19-20, 2024
+  start: 2024-02-19
+  end: 2024-02-20
+  sub: PL
+  note: PL + HCI workshop
