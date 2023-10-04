@@ -3,7 +3,7 @@ description: Countdowns to some deadlines
 author: Carolin Brandt
 
 domain: "carolin-brandt.de/deadlines"
-baseurl: ""
+baseurl: "carolin-brandt.de/deadlines"
 
 # twitter_hashtag: machinelearning
 github_username: lacinoire
