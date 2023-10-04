@@ -3,7 +3,7 @@
   sub: SE
   color: "#0099ff"
 - name: Testing
-  sub: Test
+  sub: TEST
   color: "#9966ff"
 - name: Requirements Engineering
   sub: RE
