@@ -8,22 +8,7 @@
   date: April 14-20, 2024
   start: 2024-04-14
   end: 2024-04-20
-  #hindex: 120
   sub: SE
-
-- title: ICSE-Demos
-  year: 2024
-  id: icsedemo24
-  link: https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations
-  deadline: '2023-10-23 23:59:59'
-  timezone: UTC-12
-  place: Lisbon, Portugal
-  date: April 14-20, 2024
-  start: 2024-04-14
-  end: 2024-04-20
-  #hindex: 120
-  sub: SE
-  note: The submission must be accompanied by a short video (between three and five minutes long) illustrating the demonstration.
 
 - title: REFSQ
   year: 2024
@@ -35,5 +20,91 @@
   date: April 08-11, 2024
   start: 2024-04-08
   end: 2024-04-11
-  #hindex: 120
+  sub: RE
+
+- title: The IDE Workshop
+  year: 2024
+  id: ide-workshop24
+  link: https://ide-workshop.github.io/
+  deadline: '2023-11-09 23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: TBA
+  start: TBA
+  end: TBA
   sub: SE
+
+
+- title: Methodological Issues with Empirical Studies in Software Engineering Workshop
+  year: 2024
+  id: ese-workshop24
+  link: https://2024.ese-workshops.org/
+  deadline: '2023-11-09 23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: TBA
+  start: TBA
+  end: TBA
+  sub: SE
+
+- title: ICSME
+  year: 2024
+  id: icsme24
+  link: https://conf.researchr.org/home/icsme-2024
+  deadline: '2024-04-04 23:59:59'
+  timezone: UTC-12
+  place: Flagstaff, AZ, USA
+  date: Oct 6-11, 2024
+  start: 2024-10-06
+  end: 2024-10-11
+  sub: SE
+
+- title: AST
+  year: 2024
+  id: ast24
+  link: https://conf.researchr.org/home/ast-2024#Call-for-Papers
+  deadline: '2023-11-20 23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: Mon 15 - Tue 16 Apr 2024
+  start: 2024-04-15
+  end: 2024-04-16
+  sub: Test
+
+- title: ISSTA 1st Round
+  year: 2024
+  id: issta24-1
+  link: https://conf.researchr.org/home/issta-2024
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: Mon 16 - Fri 20 September 2024
+  start: 2024-09-16
+  end: 2024-09-20
+  sub: Test
+  note: co-located with ECOOP
+
+- title: ISSTA 2nd Round
+  year: 2024
+  id: issta24-2
+  link: https://conf.researchr.org/home/issta-2024
+  deadline: '2024-04-12 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: Mon 16 - Fri 20 September 2024
+  start: 2024-09-16
+  end: 2024-09-20
+  sub: Test
+  note: co-located with ECOOP
+
+- title: Requirements Engineering
+  year: 2024
+  id: re24
+  link: https://conf.researchr.org/home/RE-2024
+  deadline: '2024-01-19 23:59:59'
+  timezone: UTC-12
+  place: Reykjavik, Iceland
+  date: June 24-28, 2024
+  start: 2024-06-24
+  end: 2024-06-28
+  sub: RE

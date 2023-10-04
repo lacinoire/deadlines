@@ -1,4 +1,10 @@
 ---
 - name: Software Engineering
   sub: SE
-  color: "#ffd300"
+  color: "#0099ff"
+- name: Testing
+  sub: Test
+  color: "#9966ff"
+- name: Requirements Engineering
+  sub: RE
+  color: "#33cc33"
